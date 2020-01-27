@@ -1,0 +1,7 @@
+.idea/
+allure-report/
+allure-results/
+/
+build/
+target/
+test.taf.iml
